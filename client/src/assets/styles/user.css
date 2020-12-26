@@ -1,0 +1,26 @@
+.page-body {
+  padding: 20px 120px;
+}
+
+.btn-edit {
+  color: #17a2b8 !important;
+  background: #fff !important;
+  border-color: #17a2b8 !important;
+}
+
+.btn-edit:hover{
+  background: #17a2b8 !important;
+  color: #ffffff !important;
+}
+
+.btn-delete:hover{
+  background: #ff4d4f !important;
+  color: #ffffff !important;
+}
+
+.label{
+  color: rgba(0, 0, 0, 0.85);
+    font-weight: 400;
+    margin-top: 10px;
+    display: block;
+}
